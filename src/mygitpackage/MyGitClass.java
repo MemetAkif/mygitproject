@@ -8,6 +8,7 @@ public class MyGitClass {
 		System.out.println("3. degisiklik");
 		System.out.println("GitHuptan 1. degisiklik");
 		System.out.println("Bilgisayardan 4. degisiklik");
+		System.out.println("GitHuptan 2. degisiklik");
 		
 	}
 }

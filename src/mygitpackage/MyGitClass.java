@@ -16,5 +16,6 @@ public class MyGitClass {
 		System.out.println("Githuptan Conflic  degisiklik");
 
 		System.out.println("Bilgisayardan Conflic  degisiklik 18.satir");
+		System.out.println("  bos");
 	}
 }
